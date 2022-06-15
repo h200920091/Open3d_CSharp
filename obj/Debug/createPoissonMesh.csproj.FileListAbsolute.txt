@@ -1,0 +1,10 @@
+D:\zhihao\Project\SSI\CShARP\createPoissonMesh\createPoissonMesh\bin\Debug\createPoissonMesh.exe.config
+D:\zhihao\Project\SSI\CShARP\createPoissonMesh\createPoissonMesh\bin\Debug\createPoissonMesh.exe
+D:\zhihao\Project\SSI\CShARP\createPoissonMesh\createPoissonMesh\bin\Debug\createPoissonMesh.pdb
+D:\zhihao\Project\SSI\CShARP\createPoissonMesh\createPoissonMesh\obj\Debug\createPoissonMesh.csproj.AssemblyReference.cache
+D:\zhihao\Project\SSI\CShARP\createPoissonMesh\createPoissonMesh\obj\Debug\createPoissonMesh.Form1.resources
+D:\zhihao\Project\SSI\CShARP\createPoissonMesh\createPoissonMesh\obj\Debug\createPoissonMesh.Properties.Resources.resources
+D:\zhihao\Project\SSI\CShARP\createPoissonMesh\createPoissonMesh\obj\Debug\createPoissonMesh.csproj.GenerateResource.cache
+D:\zhihao\Project\SSI\CShARP\createPoissonMesh\createPoissonMesh\obj\Debug\createPoissonMesh.csproj.CoreCompileInputs.cache
+D:\zhihao\Project\SSI\CShARP\createPoissonMesh\createPoissonMesh\obj\Debug\createPoissonMesh.exe
+D:\zhihao\Project\SSI\CShARP\createPoissonMesh\createPoissonMesh\obj\Debug\createPoissonMesh.pdb
